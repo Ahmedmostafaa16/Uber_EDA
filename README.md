@@ -1,6 +1,6 @@
 # Uber_EDA
 I performed an Exploratory Data Analysis (EDA) on the dataset after loading it. During the process, I added meaningful new columns, removed irrelevant or non-informative ones, changed data types where necessary for better analysis and efficiency, and saved the transformed data with a reduced file size by 20%. Finally, I answered the following business questions:
-Note: the system runs with Km not Miles.
+
 
   • For each purpose for each Category calculate the sum of kms driven
   
